@@ -16,7 +16,7 @@ const options = {
 const data = {
   name: chalk.white('Rares Golea /'),
   handle: chalk.cyan('@rgolea'),
-  work: chalk.white('Senior Developer at Eatappi'),
+  work: chalk.white('Senior Developer'),
   twitter: chalk.cyan('https://twitter.com/rgolea'),
   github: chalk.cyan('https://github.com/rgolea'),
   linkedin: chalk.cyan('https://linkedin.com/in/rgolea'),

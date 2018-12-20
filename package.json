@@ -1,6 +1,6 @@
 {
   "name": "rgolea",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A personal card for Rares Golea (@rgolea)",
   "main": "index.js",
   "bin": {
